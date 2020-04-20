@@ -1,4 +1,4 @@
-nome = input('Qual o seu nome, belezinha?')
+nome = input('Qual o seu nome?')
 dia = input('E que dia do mês você nasceu?')
 mes = input('De qual mês?')
 ano = input('E qual foi o ano da sua estréia no planeta Terra?')
